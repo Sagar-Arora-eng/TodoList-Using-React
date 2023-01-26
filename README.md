@@ -1,4 +1,4 @@
-Visit the website - https://app.netlify.com/sites/todolist-by-sagararora/overview
+Visit the website - https://todolist-by-sagararora.netlify.app/
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
